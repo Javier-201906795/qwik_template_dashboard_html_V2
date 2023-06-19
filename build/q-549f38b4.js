@@ -1,0 +1,1 @@
+import{d as n,a as l,g as u}from"./q-05e999c9.js";const a=()=>n(u,{children:[l("h1",null,null,"Hi1 👋",3,null),l("p",null,null,["Can't wait to see what you build with qwik!",l("br",null,null,null,3,null),"Happy coding."],3,null)]},3,"i8_0");export{a as s_B0lqk5IDDy4};
